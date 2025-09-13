@@ -7,7 +7,7 @@ function App() {
  return (
  <div style={{ textAlign: "center", marginTop: "50px" }}>
  <h1>{message}</h1>
- <p>{`This text is displayed using string literals in React.`}</p>
+ <p>{`This text is displayed using string literals in React develpoed by ranjith.`}</p>
  </div>
  );
 }
